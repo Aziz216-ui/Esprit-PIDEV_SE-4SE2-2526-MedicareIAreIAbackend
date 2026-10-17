@@ -80,3 +80,8 @@ This backend is consumed by the Angular/React frontend via REST API.
 
 Base URL:
 http://localhost:8080/api
+
+
+## Analyse statique
+
+Le code est analysé avec SonarQube Cloud (atelier Test et validation de logiciel).
